@@ -1,6 +1,6 @@
 # Hello Welcome to the team 27 Repository
 
-This Repository is creates a 2d turn-based card game, the game will
+This Repository is creates a 2D turn-based card game, the game will
 
 be built in c# by using the Unity game engine.
 
